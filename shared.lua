@@ -7,5 +7,6 @@ entityInventoryToSort =
 	["cargo-wagon"] = defines.inventory.cargo_wagon,
 	["container"] = defines.inventory.chest,
 	["logistic-container"] = defines.inventory.chest,
-	["roboport"] = {defines.inventory.roboport_robot, defines.inventory.roboport_material}
+	["roboport"] = {defines.inventory.roboport_robot, defines.inventory.roboport_material},
+	["spider-vehicle"] = defines.inventory.spider_trunk
 }
